@@ -129,7 +129,7 @@ A: [docs/getting-started.md](docs/getting-started.md) for setup. [docs/academy_s
 ## Visual: Data Flow Example
 
 <p align="center">
-  <img src="Flow2-ezgif.com-video-to-gif-converter.gif" alt="PySpark Learning Path Flow" width="100%"/>
+  <img src="/docs/images/Flow2-ezgif.com-video-to-gif-converter.gif" alt="PySpark Learning Path Flow" width="100%"/>
 </p>
 
 ---
