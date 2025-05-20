@@ -21,9 +21,9 @@ def set_spark_env_vars(java_home=None):
         java_home = get_java_home()
     
     os.environ["JAVA_HOME"] = java_home
-    os.environ["PYSPARK_PYTHON"] = sys.executable
-    os.environ["PYSPARK_DRIVER_PYTHON"] = sys.executable
-    
+os.environ["PYSPARK_PYTHON"] = sys.executable
+os.environ["PYSPARK_DRIVER_PYTHON"] = sys.executable
+
     return {
         "JAVA_HOME": java_home,
         "PYSPARK_PYTHON": sys.executable,
@@ -45,8 +45,8 @@ def get_spark_session(app_name="PySpark Application",
     Returns:
         SparkSession: Configured SparkSession
     """
-    from pyspark.sql import SparkSession
-    
+from pyspark.sql import SparkSession
+
     # Set environment variables
     set_spark_env_vars()
     
@@ -70,17 +70,17 @@ def test_spark_session():
     """Function to test PySpark installation and setup."""
     # Get SparkSession
     spark = get_spark_session(app_name="PySpark Test")
-    sc = spark.sparkContext
-    
+sc = spark.sparkContext
+
     # Print version
-    print("SparkContext initialized successfully")
-    print(f"Spark version: {spark.version}")
-    
-    # Simple test
-    data = [1, 2, 3, 4, 5]
-    distData = sc.parallelize(data)
-    sum_result = distData.reduce(lambda a, b: a + b)
-    print(f"Sum of test data: {sum_result}")
+print("SparkContext initialized successfully")
+print(f"Spark version: {spark.version}")
+
+# Simple test
+data = [1, 2, 3, 4, 5]
+distData = sc.parallelize(data)
+sum_result = distData.reduce(lambda a, b: a + b)
+print(f"Sum of test data: {sum_result}")
     
     return spark
 

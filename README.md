@@ -26,17 +26,15 @@
 
 ## Quick Reference Map
 
-```mermaid
-graph TD;
-    A[Setup & Env] --> B[Data Generation]
-    B --> C[Data Exploration]
-    C --> D[Transformations & Joins]
-    D --> E[Window Functions]
-    E --> F[Machine Learning]
-    F --> G[Streaming]
-    G --> H[Testing]
-    H --> I[Best Practices]
-```
+| Icon | Stage              | Description                   | Code Example                        | Docs/Guide                      |
+|------|--------------------|-------------------------------|-------------------------------------|----------------------------------|
+| 🗄️   | Data Generation    | Create sample datasets         | [`data_generator.py`](src/data_generator.py) | [Getting Started](docs/getting-started.md) |
+| 📊   | Data Exploration   | Explore & summarize data       | [`pyspark_analysis_examples.py`](src/pyspark_analysis_examples.py) | [Exploration Guide](docs/getting-started.md#data-exploration) |
+| ⚙️   | Transformations    | Data cleaning & transforms     | [`pyspark_analysis_examples.py`](src/pyspark_analysis_examples.py) | [Transformations](docs/getting-started.md#transformations) |
+| 📈   | Window Functions   | Advanced aggregations          | [`pyspark_analysis_examples.py`](src/pyspark_analysis_examples.py) | [Window Functions](docs/getting-started.md#window-functions) |
+| ✨   | Machine Learning   | ML with PySpark                | [`pyspark_analysis_examples.py`](src/pyspark_analysis_examples.py) | [ML Guide](docs/getting-started.md#machine-learning) |
+| 🌊   | Streaming          | Real-time data processing      | [`pyspark_analysis_examples.py`](src/pyspark_analysis_examples.py) | [Streaming](docs/getting-started.md#streaming) |
+| ✅   | Testing            | Test your Spark code           | [`tests/test_spark_session.py`](tests/test_spark_session.py) | [Testing](docs/getting-started.md#testing) |
 
 ---
 
