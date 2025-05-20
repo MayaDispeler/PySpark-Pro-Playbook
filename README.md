@@ -131,17 +131,12 @@ A: [docs/getting-started.md](docs/getting-started.md) for setup. [docs/academy_s
 ## Visual: Data Flow Example
 ```mermaid
 flowchart LR
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style G fill:#bbf,stroke:#333,stroke-width:2px
-    A([🚀 Data Generation]):::start --> B([🔍 Data Exploration])
+    A([🚀 Data Generation]) --> B([🔍 Data Exploration])
     B --> C([🔄 Transformations])
     C --> D([📊 Window Functions])
     D --> E([🤖 Machine Learning])
     E --> F([🌊 Streaming])
-    F --> G([🧪 Testing]):::end
-
-    classDef start fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef end fill:#bbf,stroke:#333,stroke-width:2px;
+    F --> G([🧪 Testing])
 ```
 
 ---
