@@ -1,0 +1,359 @@
+[
+  {
+    "customer_id": 1,
+    "first_name": "Tammy",
+    "last_name": "Acosta",
+    "email": "alexander88@example.org",
+    "phone": "001-820-836-8721x890",
+    "registration_date": "2024-06-07",
+    "last_activity_date": "2024-07-12",
+    "segment": "New",
+    "total_purchases": 5,
+    "total_spent": 409.37,
+    "average_order_value": 81.84,
+    "acquisition_channel": "Social Media",
+    "is_active": true,
+    "address": {
+      "street": "7716 Hill Manors",
+      "city": "Johnsonhaven",
+      "state": "NJ",
+      "zip": "92698",
+      "country": "USA"
+    },
+    "preferences": {
+      "preferred_categories": [
+        "Clothing",
+        "Furniture",
+        "Electronics"
+      ],
+      "communication_preferences": [
+        "Phone",
+        "SMS",
+        "Email"
+      ],
+      "favorite_products": [
+        78,
+        60
+      ]
+    }
+  },
+  {
+    "customer_id": 2,
+    "first_name": "Brian",
+    "last_name": "White",
+    "email": "kevinsantiago@example.com",
+    "phone": "+1-531-855-3241x8975",
+    "registration_date": "2022-06-04",
+    "last_activity_date": "2022-07-06",
+    "segment": "New",
+    "total_purchases": 29,
+    "total_spent": 434.42,
+    "average_order_value": 23.94,
+    "acquisition_channel": "Web Search",
+    "is_active": true,
+    "address": {
+      "street": "19019 Davis Streets",
+      "city": "Lake Christineview",
+      "state": "DE",
+      "zip": "96043",
+      "country": "USA"
+    },
+    "preferences": {
+      "preferred_categories": [
+        "Appliances",
+        "Furniture"
+      ],
+      "communication_preferences": [
+        "Email",
+        "SMS",
+        "Mail"
+      ],
+      "favorite_products": [
+        59,
+        2,
+        6,
+        13
+      ]
+    }
+  },
+  {
+    "customer_id": 3,
+    "first_name": "Kimberly",
+    "last_name": "Caldwell",
+    "email": "tayala@example.net",
+    "phone": "001-903-693-1531x314",
+    "registration_date": "2021-11-05",
+    "last_activity_date": "2024-02-28",
+    "segment": "Regular",
+    "total_purchases": 38,
+    "total_spent": 7266.41,
+    "average_order_value": 1444.96,
+    "acquisition_channel": "Direct",
+    "is_active": true,
+    "address": {
+      "street": "252 Stephanie Cape Apt. 414",
+      "city": "Coreyfort",
+      "state": "NH",
+      "zip": "63870",
+      "country": "USA"
+    },
+    "preferences": {
+      "preferred_categories": [
+        "Clothing"
+      ],
+      "communication_preferences": [
+        "SMS"
+      ],
+      "favorite_products": [
+        45
+      ]
+    }
+  },
+  {
+    "customer_id": 4,
+    "first_name": "Michelle",
+    "last_name": "Wise",
+    "email": "aaronoliver@example.com",
+    "phone": "(409)720-1489x196",
+    "registration_date": "2022-10-09",
+    "last_activity_date": "2024-09-11",
+    "segment": "New",
+    "total_purchases": 30,
+    "total_spent": 12864.93,
+    "average_order_value": 2483.83,
+    "acquisition_channel": "Advertisement",
+    "is_active": true,
+    "address": {
+      "street": "715 Christopher Curve",
+      "city": "Ricardoberg",
+      "state": "TN",
+      "zip": "26633",
+      "country": "USA"
+    },
+    "preferences": {
+      "preferred_categories": [
+        "Appliances"
+      ],
+      "communication_preferences": [
+        "SMS",
+        "Phone"
+      ],
+      "favorite_products": []
+    }
+  },
+  {
+    "customer_id": 5,
+    "first_name": "Mary",
+    "last_name": "Macias",
+    "email": "raybrianna@example.net",
+    "phone": "(665)399-3991",
+    "registration_date": "2023-04-25",
+    "last_activity_date": "2023-10-19",
+    "segment": "New",
+    "total_purchases": 5,
+    "total_spent": 1763.54,
+    "average_order_value": 136.71,
+    "acquisition_channel": "Advertisement",
+    "is_active": true,
+    "address": {
+      "street": "9103 Evan Gateway",
+      "city": "Morganside",
+      "state": "IA",
+      "zip": "34424",
+      "country": "USA"
+    },
+    "preferences": {
+      "preferred_categories": [
+        "Clothing"
+      ],
+      "communication_preferences": [
+        "SMS",
+        "Email",
+        "Mail"
+      ],
+      "favorite_products": []
+    }
+  },
+  {
+    "customer_id": 6,
+    "first_name": "Jason",
+    "last_name": "Rodriguez",
+    "email": "smithdavid@example.net",
+    "phone": "539.544.4092x4845",
+    "registration_date": "2021-02-21",
+    "last_activity_date": "2022-02-23",
+    "segment": "Regular",
+    "total_purchases": 30,
+    "total_spent": 3734.5,
+    "average_order_value": 116.0,
+    "acquisition_channel": "Partner",
+    "is_active": true,
+    "address": {
+      "street": "880 Dickerson Stravenue Suite 289",
+      "city": "Maxwellmouth",
+      "state": "PR",
+      "zip": "19785",
+      "country": "USA"
+    },
+    "preferences": {
+      "preferred_categories": [
+        "Appliances",
+        "Furniture",
+        "Electronics"
+      ],
+      "communication_preferences": [
+        "Mail",
+        "Phone",
+        "Email"
+      ],
+      "favorite_products": [
+        90,
+        5,
+        51,
+        33,
+        92
+      ]
+    }
+  },
+  {
+    "customer_id": 7,
+    "first_name": "Linda",
+    "last_name": "Taylor",
+    "email": "skinnerjoshua@example.com",
+    "phone": "663-743-8820x0551",
+    "registration_date": "2023-09-21",
+    "last_activity_date": "2024-05-12",
+    "segment": "Regular",
+    "total_purchases": 15,
+    "total_spent": 4132.17,
+    "average_order_value": 320.16,
+    "acquisition_channel": "Advertisement",
+    "is_active": true,
+    "address": {
+      "street": "1614 Micheal Drive",
+      "city": "Alexandrafurt",
+      "state": "ME",
+      "zip": "83053",
+      "country": "USA"
+    },
+    "preferences": {
+      "preferred_categories": [
+        "Appliances",
+        "Clothing"
+      ],
+      "communication_preferences": [
+        "SMS"
+      ],
+      "favorite_products": [
+        51,
+        67,
+        83,
+        64
+      ]
+    }
+  },
+  {
+    "customer_id": 8,
+    "first_name": "Shane",
+    "last_name": "Smith",
+    "email": "christinedavis@example.com",
+    "phone": "461.219.7192x2170",
+    "registration_date": "2021-02-20",
+    "last_activity_date": "2025-04-20",
+    "segment": "Regular",
+    "total_purchases": 10,
+    "total_spent": 21479.62,
+    "average_order_value": 4156.13,
+    "acquisition_channel": "Social Media",
+    "is_active": true,
+    "address": {
+      "street": "327 Matthews Brook Apt. 334",
+      "city": "Johnsonshire",
+      "state": "IN",
+      "zip": "05420",
+      "country": "USA"
+    },
+    "preferences": {
+      "preferred_categories": [
+        "Clothing",
+        "Appliances",
+        "Furniture"
+      ],
+      "communication_preferences": [
+        "Mail"
+      ],
+      "favorite_products": [
+        17
+      ]
+    }
+  },
+  {
+    "customer_id": 9,
+    "first_name": "Becky",
+    "last_name": "Hernandez",
+    "email": "acostacassie@example.net",
+    "phone": "735.947.3347",
+    "registration_date": "2022-04-19",
+    "last_activity_date": "2023-05-29",
+    "segment": "New",
+    "total_purchases": 24,
+    "total_spent": 1386.04,
+    "average_order_value": 84.68,
+    "acquisition_channel": "Direct",
+    "is_active": true,
+    "address": {
+      "street": "037 Burns Trace",
+      "city": "New Jessicafurt",
+      "state": "NY",
+      "zip": "93642",
+      "country": "USA"
+    },
+    "preferences": {
+      "preferred_categories": [
+        "Furniture",
+        "Electronics"
+      ],
+      "communication_preferences": [
+        "Phone"
+      ],
+      "favorite_products": []
+    }
+  },
+  {
+    "customer_id": 10,
+    "first_name": "Megan",
+    "last_name": "Moses",
+    "email": "james08@example.net",
+    "phone": "(903)510-9504x732",
+    "registration_date": "2022-03-02",
+    "last_activity_date": "2024-09-15",
+    "segment": "Premium",
+    "total_purchases": 6,
+    "total_spent": 8255.15,
+    "average_order_value": 855.75,
+    "acquisition_channel": "Partner",
+    "is_active": true,
+    "address": {
+      "street": "2334 Amanda Island Apt. 451",
+      "city": "New Janet",
+      "state": "NM",
+      "zip": "60882",
+      "country": "USA"
+    },
+    "preferences": {
+      "preferred_categories": [
+        "Clothing",
+        "Appliances"
+      ],
+      "communication_preferences": [
+        "Mail",
+        "Email",
+        "SMS"
+      ],
+      "favorite_products": [
+        17,
+        13
+      ]
+    }
+  }
+]

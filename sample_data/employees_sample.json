@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "first_name": "Mark",
+    "last_name": "Jackson",
+    "email": "hannahdodson@example.org",
+    "phone_number": "9694938914",
+    "hire_date": "2015-08-12",
+    "job_title": "HR Coordinator",
+    "department": "HR",
+    "salary": 94789,
+    "manager_id": null,
+    "address": {
+      "street": "621 Daniel Groves",
+      "city": "West Felicia",
+      "state": "RI",
+      "zip": "17502",
+      "country": "USA"
+    },
+    "skills": [
+      "Kubernetes",
+      "Tableau"
+    ]
+  },
+  {
+    "id": 2,
+    "first_name": "Derek",
+    "last_name": "Vazquez",
+    "email": "james43@example.org",
+    "phone_number": "299-614-6976x13701",
+    "hire_date": "2017-11-09",
+    "job_title": "Security Specialist",
+    "department": "IT",
+    "salary": 106663,
+    "manager_id": null,
+    "address": {
+      "street": "36726 Johnston Court",
+      "city": "Hernandezville",
+      "state": "MO",
+      "zip": "70693",
+      "country": "USA"
+    },
+    "skills": [
+      "Azure",
+      "Spark",
+      "Scala",
+      "Java"
+    ]
+  },
+  {
+    "id": 3,
+    "first_name": "Kaitlin",
+    "last_name": "Walker",
+    "email": "arnoldchristopher@example.org",
+    "phone_number": "(934)412-9580",
+    "hire_date": "2019-04-14",
+    "job_title": "IT Manager",
+    "department": "IT",
+    "salary": 112440,
+    "manager_id": null,
+    "address": {
+      "street": "49846 Jorge Via Apt. 137",
+      "city": "Longfort",
+      "state": "TN",
+      "zip": "23055",
+      "country": "USA"
+    },
+    "skills": [
+      "PowerBI",
+      "Azure",
+      "Hadoop",
+      "Java",
+      "Docker"
+    ]
+  },
+  {
+    "id": 4,
+    "first_name": "Bryce",
+    "last_name": "Barber",
+    "email": "ryanneal@example.com",
+    "phone_number": "521.734.2896x9626",
+    "hire_date": "2020-08-14",
+    "job_title": "HR Manager",
+    "department": "HR",
+    "salary": 72599,
+    "manager_id": null,
+    "address": {
+      "street": "03806 Katherine Common Suite 775",
+      "city": "Lake Jamesport",
+      "state": "WV",
+      "zip": "00788",
+      "country": "USA"
+    },
+    "skills": [
+      "AWS",
+      "GCP"
+    ]
+  },
+  {
+    "id": 5,
+    "first_name": "Julie",
+    "last_name": "Whitaker",
+    "email": "westkari@example.org",
+    "phone_number": "001-517-679-9042x5214",
+    "hire_date": "2017-12-09",
+    "job_title": "Support Agent",
+    "department": "Customer Support",
+    "salary": 72290,
+    "manager_id": null,
+    "address": {
+      "street": "8041 Strong Flat",
+      "city": "Rodriguezland",
+      "state": "CA",
+      "zip": "97062",
+      "country": "USA"
+    },
+    "skills": [
+      "Hadoop",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 6,
+    "first_name": "Eric",
+    "last_name": "Boyd",
+    "email": "aaronhendrix@example.com",
+    "phone_number": "001-700-372-3352x33676",
+    "hire_date": "2021-02-13",
+    "job_title": "Sales Analyst",
+    "department": "Sales",
+    "salary": 90221,
+    "manager_id": null,
+    "address": {
+      "street": "06924 Peters Estates Suite 601",
+      "city": "Randyshire",
+      "state": "MO",
+      "zip": "88569",
+      "country": "USA"
+    },
+    "skills": [
+      "Tableau",
+      "R",
+      "Azure",
+      "Spark",
+      "Docker"
+    ]
+  },
+  {
+    "id": 7,
+    "first_name": "Ashley",
+    "last_name": "Smith",
+    "email": "washingtonjessica@example.com",
+    "phone_number": "9202093113",
+    "hire_date": "2022-07-07",
+    "job_title": "Financial Analyst",
+    "department": "Finance",
+    "salary": 92548,
+    "manager_id": null,
+    "address": {
+      "street": "807 Martin Heights Apt. 233",
+      "city": "Priscillatown",
+      "state": "ME",
+      "zip": "75580",
+      "country": "USA"
+    },
+    "skills": [
+      "Docker",
+      "Hadoop",
+      "SQL"
+    ]
+  },
+  {
+    "id": 8,
+    "first_name": "Jessica",
+    "last_name": "Johnson",
+    "email": "peggy70@example.net",
+    "phone_number": "212.827.9355",
+    "hire_date": "2017-03-14",
+    "job_title": "SEO Specialist",
+    "department": "Marketing",
+    "salary": 99821,
+    "manager_id": null,
+    "address": {
+      "street": "79525 Moreno Tunnel Apt. 816",
+      "city": "Johnsonshire",
+      "state": "NM",
+      "zip": "58872",
+      "country": "USA"
+    },
+    "skills": [
+      "Azure",
+      "Scala",
+      "Tableau"
+    ]
+  },
+  {
+    "id": 9,
+    "first_name": "Elizabeth",
+    "last_name": "Meyers",
+    "email": "vazquezsteven@example.org",
+    "phone_number": "(304)669-4557",
+    "hire_date": "2015-08-18",
+    "job_title": "Business Analyst",
+    "department": "Operations",
+    "salary": 85380,
+    "manager_id": null,
+    "address": {
+      "street": "226 White Manors Apt. 244",
+      "city": "Port Sara",
+      "state": "KY",
+      "zip": "25495",
+      "country": "USA"
+    },
+    "skills": [
+      "Python",
+      "Excel",
+      "PowerBI"
+    ]
+  },
+  {
+    "id": 10,
+    "first_name": "Laura",
+    "last_name": "Thomas",
+    "email": "geoffrey03@example.org",
+    "phone_number": "001-993-298-6250x1097",
+    "hire_date": "2017-07-19",
+    "job_title": "SEO Specialist",
+    "department": "Marketing",
+    "salary": 92294,
+    "manager_id": null,
+    "address": {
+      "street": "5764 Eric River",
+      "city": "Foxfort",
+      "state": "VT",
+      "zip": "18852",
+      "country": "USA"
+    },
+    "skills": [
+      "Azure",
+      "Python"
+    ]
+  }
+]

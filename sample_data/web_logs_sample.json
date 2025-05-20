@@ -1,0 +1,222 @@
+[
+  {
+    "log_id": 1,
+    "timestamp": "2025-05-13 17:14:56",
+    "user_id": null,
+    "session_id": "a0e81a73-1780-4bd6-a62a-66d562568f3d",
+    "ip_address": "56.11.243.132",
+    "action": "hover",
+    "page": "/product/3",
+    "referrer": "/orders",
+    "device": "mobile",
+    "browser": "Firefox",
+    "operating_system": "Linux",
+    "duration_seconds": 43,
+    "status_code": 200,
+    "location": {
+      "city": "Lake Rebecca",
+      "state": "KS",
+      "country": "AG",
+      "latitude": -6.673683,
+      "longitude": -83.358755
+    }
+  },
+  {
+    "log_id": 2,
+    "timestamp": "2025-04-26 15:39:04",
+    "user_id": null,
+    "session_id": "465be313-b6f3-465c-8b8a-3de51bad13c9",
+    "ip_address": "188.124.46.136",
+    "action": "add_to_cart",
+    "page": "/support",
+    "referrer": "/products/furniture",
+    "device": "tablet",
+    "browser": "Firefox",
+    "operating_system": "Linux",
+    "duration_seconds": 177,
+    "status_code": 200,
+    "location": {
+      "city": "East Michael",
+      "state": "MP",
+      "country": "VU",
+      "latitude": 81.2139705,
+      "longitude": 30.844527
+    }
+  },
+  {
+    "log_id": 3,
+    "timestamp": "2025-05-09 17:54:49",
+    "user_id": null,
+    "session_id": "52f563a1-6c6c-4916-8719-a943f41a63dc",
+    "ip_address": "97.153.223.199",
+    "action": "pause",
+    "page": "/register",
+    "referrer": "/register",
+    "device": "tablet",
+    "browser": "Safari",
+    "operating_system": "Windows",
+    "duration_seconds": 254,
+    "status_code": 200,
+    "location": {
+      "city": "Kennedyshire",
+      "state": "AZ",
+      "country": "NP",
+      "latitude": -26.065802,
+      "longitude": 0.938797
+    }
+  },
+  {
+    "log_id": 4,
+    "timestamp": "2025-05-17 09:29:34",
+    "user_id": null,
+    "session_id": "af8c36f3-932c-4644-8e02-bca29a2fb74a",
+    "ip_address": "49.14.143.211",
+    "action": "add_to_cart",
+    "page": "/about",
+    "referrer": "https://instagram.com",
+    "device": "mobile",
+    "browser": "Opera",
+    "operating_system": "MacOS",
+    "duration_seconds": 112,
+    "status_code": 200,
+    "location": {
+      "city": "East Lisa",
+      "state": "NE",
+      "country": "TV",
+      "latitude": -0.2091585,
+      "longitude": 150.349836
+    }
+  },
+  {
+    "log_id": 5,
+    "timestamp": "2025-05-04 21:27:21",
+    "user_id": null,
+    "session_id": "a1b2d368-db23-4fdb-a542-e425d25fa425",
+    "ip_address": "76.140.114.200",
+    "action": "click",
+    "page": "/products/clothing",
+    "referrer": "/terms",
+    "device": "tablet",
+    "browser": "Edge",
+    "operating_system": "MacOS",
+    "duration_seconds": 55,
+    "status_code": 200,
+    "location": {
+      "city": "North Gregoryview",
+      "state": "IA",
+      "country": "BJ",
+      "latitude": -42.7731625,
+      "longitude": -176.34087
+    }
+  },
+  {
+    "log_id": 6,
+    "timestamp": "2025-05-21 21:32:11",
+    "user_id": null,
+    "session_id": "3556ce1a-322e-46a3-84dc-10fff6e603c9",
+    "ip_address": "137.138.95.180",
+    "action": "remove_from_cart",
+    "page": "/login",
+    "referrer": "/terms",
+    "device": "tablet",
+    "browser": "Edge",
+    "operating_system": "Linux",
+    "duration_seconds": 255,
+    "status_code": 200,
+    "location": {
+      "city": "Patriciaside",
+      "state": "MH",
+      "country": "GQ",
+      "latitude": -53.6112335,
+      "longitude": 54.566595
+    }
+  },
+  {
+    "log_id": 7,
+    "timestamp": "2025-05-13 04:30:35",
+    "user_id": null,
+    "session_id": "0d909892-66f1-4eef-aa0f-b92e0e0bee55",
+    "ip_address": "10.235.76.167",
+    "action": "remove_from_cart",
+    "page": "/orders",
+    "referrer": "/privacy",
+    "device": "mobile",
+    "browser": "Firefox",
+    "operating_system": "Linux",
+    "duration_seconds": 180,
+    "status_code": 200,
+    "location": {
+      "city": "Tiffanyville",
+      "state": "WA",
+      "country": "KH",
+      "latitude": -46.622674,
+      "longitude": -74.384395
+    }
+  },
+  {
+    "log_id": 8,
+    "timestamp": "2025-05-07 22:46:54",
+    "user_id": null,
+    "session_id": "70ec125f-287c-4cbd-a1cb-69053355c738",
+    "ip_address": "134.23.22.135",
+    "action": "checkout",
+    "page": "/search",
+    "referrer": "/contact",
+    "device": "tablet",
+    "browser": "Chrome",
+    "operating_system": "Linux",
+    "duration_seconds": 210,
+    "status_code": 200,
+    "location": {
+      "city": "New Ritaberg",
+      "state": "GA",
+      "country": "SK",
+      "latitude": 28.307856,
+      "longitude": -109.040479
+    }
+  },
+  {
+    "log_id": 9,
+    "timestamp": "2025-04-22 02:31:25",
+    "user_id": null,
+    "session_id": "d6db1276-ca43-41cb-8ff5-08af89c5268a",
+    "ip_address": "46.245.228.179",
+    "action": "scroll",
+    "page": "/login",
+    "referrer": "/wishlist",
+    "device": "tablet",
+    "browser": "Firefox",
+    "operating_system": "Windows",
+    "duration_seconds": 181,
+    "status_code": 200,
+    "location": {
+      "city": "Port Melissaburgh",
+      "state": "TN",
+      "country": "IS",
+      "latitude": -31.8558495,
+      "longitude": 17.849326
+    }
+  },
+  {
+    "log_id": 10,
+    "timestamp": "2025-05-04 01:31:54",
+    "user_id": null,
+    "session_id": "3b75267e-59a2-4399-b197-8a63cf6857ff",
+    "ip_address": "139.192.133.196",
+    "action": "checkout",
+    "page": "/product/3",
+    "referrer": "/profile",
+    "device": "desktop",
+    "browser": "Edge",
+    "operating_system": "MacOS",
+    "duration_seconds": 230,
+    "status_code": 200,
+    "location": {
+      "city": "Lisatown",
+      "state": "MI",
+      "country": "AM",
+      "latitude": -31.194976,
+      "longitude": 43.67442
+    }
+  }
+]

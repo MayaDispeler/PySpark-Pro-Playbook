@@ -1,0 +1,262 @@
+[
+  {
+    "product_id": 1,
+    "name": "Apple Wireless Computer A670",
+    "description": "Difference form Republican thank line themselves. General will agent miss seven north soldier.",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Apple",
+    "price": 602.9,
+    "sku": "ELE-COM-APP-2222",
+    "in_stock": true,
+    "inventory_count": 32,
+    "rating": 3.4,
+    "review_count": 25,
+    "attributes": {
+      "color": "Blue",
+      "weight": 13.32,
+      "dimensions": {
+        "length": 13.4,
+        "width": 21.5,
+        "height": 74.1
+      }
+    },
+    "date_added": "2024-09-04",
+    "is_featured": false,
+    "is_bestseller": false
+  },
+  {
+    "product_id": 2,
+    "name": "Apple Compact Computer V510",
+    "description": "Sound air large executive answer. Policy price leave pretty very rest shoulder positive.",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Apple",
+    "price": 1356.35,
+    "sku": "ELE-COM-APP-5575",
+    "in_stock": true,
+    "inventory_count": 82,
+    "rating": 3.2,
+    "review_count": 102,
+    "attributes": {
+      "color": "Silver",
+      "weight": 3.03,
+      "dimensions": {
+        "length": 98.1,
+        "width": 62.1,
+        "height": 24.6
+      }
+    },
+    "date_added": "2024-10-13",
+    "is_featured": false,
+    "is_bestseller": false
+  },
+  {
+    "product_id": 3,
+    "name": "Apple Premium Computer V845",
+    "description": "Staff serve same matter carry. Mean account shoulder relate huge under. Church across key soldier leader role understand than. Fly skill avoid I data pressure.",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Apple",
+    "price": 390.29,
+    "sku": "ELE-COM-APP-7989",
+    "in_stock": true,
+    "inventory_count": 96,
+    "rating": 4.4,
+    "review_count": 338,
+    "attributes": {
+      "color": "Gray",
+      "weight": 9.11,
+      "dimensions": {
+        "length": 21.5,
+        "width": 4.2,
+        "height": 27.6
+      }
+    },
+    "date_added": "2025-04-10",
+    "is_featured": true,
+    "is_bestseller": false
+  },
+  {
+    "product_id": 4,
+    "name": "Samsung Pro Computer O781",
+    "description": "Break pressure real foot hour number of. Suddenly foot when together sign to.",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Samsung",
+    "price": 1663.33,
+    "sku": "ELE-COM-SAM-6817",
+    "in_stock": true,
+    "inventory_count": 68,
+    "rating": 3.8,
+    "review_count": 146,
+    "attributes": {
+      "color": "Brown",
+      "weight": 17.28,
+      "dimensions": {
+        "length": 72.1,
+        "width": 9.7,
+        "height": 36.7
+      }
+    },
+    "date_added": "2023-08-05",
+    "is_featured": false,
+    "is_bestseller": false
+  },
+  {
+    "product_id": 5,
+    "name": "Samsung High-Performance Computer U423",
+    "description": "Wide visit peace pass participant out. The although down camera west. Those produce on class.",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Samsung",
+    "price": 1301.71,
+    "sku": "ELE-COM-SAM-1476",
+    "in_stock": true,
+    "inventory_count": 46,
+    "rating": 3.7,
+    "review_count": 21,
+    "attributes": {
+      "color": "Black",
+      "weight": 13.5,
+      "dimensions": {
+        "length": 95.9,
+        "width": 1.2,
+        "height": 62.3
+      }
+    },
+    "date_added": "2024-01-17",
+    "is_featured": true,
+    "is_bestseller": true
+  },
+  {
+    "product_id": 6,
+    "name": "Samsung Ultra Computer P531",
+    "description": "Nor rate better control all. Wall property war at kid. Health away happy. We program dinner.",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Samsung",
+    "price": 548.79,
+    "sku": "ELE-COM-SAM-9175",
+    "in_stock": false,
+    "inventory_count": 2,
+    "rating": 4.8,
+    "review_count": 409,
+    "attributes": {
+      "color": "Black",
+      "weight": 4.24,
+      "dimensions": {
+        "length": 95.0,
+        "width": 35.8,
+        "height": 94.7
+      }
+    },
+    "date_added": "2023-08-20",
+    "is_featured": false,
+    "is_bestseller": false
+  },
+  {
+    "product_id": 7,
+    "name": "Sony Pro Computer B672",
+    "description": "Available area pressure technology. Prepare catch old doctor another situation leave.",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Sony",
+    "price": 180.6,
+    "sku": "ELE-COM-SON-5697",
+    "in_stock": true,
+    "inventory_count": 52,
+    "rating": 4.4,
+    "review_count": 0,
+    "attributes": {
+      "color": "Silver",
+      "weight": 17.45,
+      "dimensions": {
+        "length": 68.8,
+        "width": 58.0,
+        "height": 83.3
+      }
+    },
+    "date_added": "2023-11-08",
+    "is_featured": false,
+    "is_bestseller": true
+  },
+  {
+    "product_id": 8,
+    "name": "Sony Compact Computer W441",
+    "description": "Customer tonight finally within expert make her. Marriage weight action.",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Sony",
+    "price": 456.54,
+    "sku": "ELE-COM-SON-8189",
+    "in_stock": false,
+    "inventory_count": 14,
+    "rating": 3.2,
+    "review_count": 498,
+    "attributes": {
+      "color": "Brown",
+      "weight": 7.6,
+      "dimensions": {
+        "length": 51.4,
+        "width": 55.3,
+        "height": 55.5
+      }
+    },
+    "date_added": "2024-08-19",
+    "is_featured": false,
+    "is_bestseller": false
+  },
+  {
+    "product_id": 9,
+    "name": "Dell Wireless Computer Z427",
+    "description": "Card hair box tonight challenge. Maintain tough realize model leave. Board kid under song south economy their.",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Dell",
+    "price": 2031.21,
+    "sku": "ELE-COM-DEL-3528",
+    "in_stock": true,
+    "inventory_count": 54,
+    "rating": 4.0,
+    "review_count": 166,
+    "attributes": {
+      "color": "Gray",
+      "weight": 6.37,
+      "dimensions": {
+        "length": 4.0,
+        "width": 59.9,
+        "height": 95.8
+      }
+    },
+    "date_added": "2024-11-02",
+    "is_featured": false,
+    "is_bestseller": false
+  },
+  {
+    "product_id": 10,
+    "name": "Dell Wireless Computer H473",
+    "description": "Pay others administration policy. Bill relate they soon.",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "Dell",
+    "price": 2162.25,
+    "sku": "ELE-COM-DEL-3336",
+    "in_stock": false,
+    "inventory_count": 73,
+    "rating": 4.2,
+    "review_count": 20,
+    "attributes": {
+      "color": "Brown",
+      "weight": 12.49,
+      "dimensions": {
+        "length": 72.6,
+        "width": 5.4,
+        "height": 89.6
+      }
+    },
+    "date_added": "2023-12-15",
+    "is_featured": true,
+    "is_bestseller": false
+  }
+]
