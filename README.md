@@ -127,15 +127,10 @@ A: [docs/getting-started.md](docs/getting-started.md) for setup. [docs/academy_s
 ---
 
 ## Visual: Data Flow Example
-```mermaid
-flowchart LR
-    A([🚀 Data Generation]) --> B([🔍 Data Exploration])
-    B --> C([🔄 Transformations])
-    C --> D([📊 Window Functions])
-    D --> E([🤖 Machine Learning])
-    E --> F([🌊 Streaming])
-    F --> G([🧪 Testing])
-```
+
+<p align="center">
+  <img src="/docs/images/Flow2-ezgif.com-video-to-gif-converter.gif" alt="PySpark Learning Path Flow" width="100%"/>
+</p>
 
 ---
 
