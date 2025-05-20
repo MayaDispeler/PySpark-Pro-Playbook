@@ -168,13 +168,18 @@ tests/test_spark_session.py ..                                         [100%]
 ## Visual: Data Flow
 
 ```mermaid
-graph LR;
-    A[Sample Data Generation] --> B[Data Exploration]
-    B --> C[Transformations]
-    C --> D[Window Functions]
-    D --> E[Machine Learning]
-    E --> F[Streaming]
-    F --> G[Testing]
+flowchart LR
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style G fill:#bbf,stroke:#333,stroke-width:2px
+    A([🚀 Data Generation]):::start --> B([🔍 Data Exploration])
+    B --> C([🔄 Transformations])
+    C --> D([📊 Window Functions])
+    D --> E([🤖 Machine Learning])
+    E --> F([🌊 Streaming])
+    F --> G([🧪 Testing]):::end
+
+    classDef start fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef end fill:#bbf,stroke:#333,stroke-width:2px;
 ```
 
 ---
